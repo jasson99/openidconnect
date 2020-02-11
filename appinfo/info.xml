@@ -2,7 +2,7 @@
 <info>
     <id>openidconnect</id>
     <name>OpenID Connect</name>
-    <summary>User authentication and SSO with OIDC</summary>
+    <summary>User authentication and SSO with OpenID Connect (OIDC)</summary>
     <description>
 This extension adds support for [OpenID Connect](https://openid.net/connect/) to ownCloud Server. 
 
