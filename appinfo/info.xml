@@ -28,7 +28,7 @@ More information on setup, configuration and migration can be found in the ownCl
     <website>https://github.com/owncloud/openidconnect</website>
     <bugs>https://github.com/owncloud/openidconnect/issues</bugs>
     <repository type="git">https://github.com/owncloud/openidconnect.git</repository>
-    <screenshot>XXX</screenshot>
+    <screenshot>https://raw.githubusercontent.com/owncloud/screenshots/master/openidconnect/openidconnect.png</screenshot>
     <dependencies>
         <owncloud min-version="10" max-version="10"/>
     </dependencies>
