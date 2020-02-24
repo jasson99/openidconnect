@@ -23,7 +23,7 @@ More information on setup, configuration and migration can be found in the ownCl
     <namespace>OpenIdConnect</namespace>
     <category>integration</category>
     <documentation>
-      <admin>XXX</admin>
+      <admin>https://doc.owncloud.com/server/latest/admin_manual/configuration/user/oidc/index.html</admin>
     </documentation>
     <website>https://github.com/owncloud/openidconnect</website>
     <bugs>https://github.com/owncloud/openidconnect/issues</bugs>
